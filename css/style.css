@@ -9,7 +9,7 @@ body {
 }
 
 a {
-    color: #FF6F61;
+    color: #3a1eeb;
     transition: 0.5s;
 }
 
@@ -1043,7 +1043,7 @@ button.btn:hover {
 
 .sidebar .category ul li span {
     display: inline-block;
-    float: right;
+
 }
 
 .sidebar .sidebar-widget .tags {
