@@ -9,7 +9,7 @@ body {
 }
 
 a {
-    color: #3a1eeb;
+    color: #b81b84;
     transition: 0.5s;
 }
 
@@ -24,7 +24,7 @@ a:focus {
 p {
     padding: 0;
     margin: 0 0 15px 0;
-    color: #000000;
+    color: #b31212;
 }
 
 h1,
@@ -325,7 +325,7 @@ button.btn:hover {
     .nav-bar,
     .nav-bar .navbar {
         padding: 3px 0;
-        background: #FF6F61 !important;
+        background: #570fb5 !important;
     }
     
     .nav-bar a.nav-link {
