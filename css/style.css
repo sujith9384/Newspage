@@ -325,7 +325,7 @@ button.btn:hover {
     .nav-bar,
     .nav-bar .navbar {
         padding: 3px 0;
-        background: #570fb5 !important;
+        background: #920d2e !important;
     }
     
     .nav-bar a.nav-link {
@@ -355,7 +355,7 @@ button.btn:hover {
     text-align: center;
     font-size: 14px;
     background: #FF6F61;
-    border: 1px solid #ffffff;
+    border: 1px solid #f306cf;
     border-radius: 4px;
 }
 
@@ -365,7 +365,7 @@ button.btn:hover {
 }
 
 .nav-bar .social a i {
-    color: #ffffff;
+    color: #5908f9;
 }
 
 .nav-bar .social a:hover i {
@@ -423,7 +423,7 @@ button.btn:hover {
 }
 
 .top-news .tn-title a:hover {
-    color: #FF6F61;
+    color: #d50bf4;
 }
 
 .top-news .tn-left {
@@ -500,7 +500,7 @@ button.btn:hover {
     color: #000000;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #000000;
+    border-bottom: 3px double #0de02d;
 }
 
 .cat-news .cn-img {
